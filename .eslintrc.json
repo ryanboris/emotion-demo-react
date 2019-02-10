@@ -11,6 +11,7 @@
   "plugins": ["react", "jsx-a11y", "import", "prettier", "promise"],
   "rules": {
     "react/jsx-filename-extension": 0,
-    "no-undef": "warn"
+    "no-undef": "warn",
+    "no-unused-vars": "warn"
   }
 }
